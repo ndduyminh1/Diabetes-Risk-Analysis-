@@ -3,7 +3,6 @@
 **Author:** Doan Duy Minh Nguyen
 **Course:** ISOM 845, Suffolk University (Sawyer Business School), Midterm Project
 **Tools:** Tableau
-**Interactive version:** [paste your Tableau Public link]
 
 ## Project Overview
 
