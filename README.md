@@ -16,10 +16,7 @@ Analyze medical indicators to determine which variables differentiate diabetic a
 
 ## Dataset
 
-- **Source:** Healthcare-Diabetes dataset [https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]
-- **Records:** 2,768 patients (952 diabetic, 1,816 non-diabetic)
-- **Key fields:** glucose, BMI, age, insulin, blood pressure, and diabetes outcome
-- **Data preparation:** created a binned blood pressure field in Tableau
+- Professor's Data
 
 ## Visualizations
 
